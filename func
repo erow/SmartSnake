@@ -1,0 +1,22 @@
+a:5:{s:2:"ds";s:78:" //返回 w,a,s,d 4个方向
+function () {
+ var a="good"
+return 'w';
+}    ";s:3:"dss";s:81:" //返回 w,a,s,d 4个方向
+function () {
+  alert("haha");
+return 'w';
+}    ";s:3:"asd";s:62:"function () {
+return 's';
+}//返回 w,a,s,d 4个方向
+    ";s:6:"global";s:100:"//hehe
+function () {
+  console.log(ss,ss.apple,map);
+return 's';
+}//返回 w,a,s,d 4个方向
+ ";s:3:"aaa";s:108:"function (self) {
+  console.log(self,this);
+  console.log(this.me());
+  console.log(me())
+return 's';
+}";}
